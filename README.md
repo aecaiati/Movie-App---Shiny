@@ -3,4 +3,4 @@ Creation a Shiny-based interactive app comparing represents 651 randomly sampled
 
 To run, either download files in open in Rstudio or enter
 
-runGitHub( "<your repository name>", "<your user name>") into R studio or R-based cloud web application
+runGitHub( "your repository name", "your user name") into R studio or R-based cloud web application
